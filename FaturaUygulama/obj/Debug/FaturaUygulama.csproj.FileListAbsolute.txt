@@ -1,0 +1,9 @@
+C:\Users\murat\Desktop\C# Projects\FaturaUygulama\FaturaUygulama\bin\Debug\FaturaUygulama.exe.config
+C:\Users\murat\Desktop\C# Projects\FaturaUygulama\FaturaUygulama\bin\Debug\FaturaUygulama.exe
+C:\Users\murat\Desktop\C# Projects\FaturaUygulama\FaturaUygulama\bin\Debug\FaturaUygulama.pdb
+C:\Users\murat\Desktop\C# Projects\FaturaUygulama\FaturaUygulama\obj\Debug\FaturaUygulama.Form1.resources
+C:\Users\murat\Desktop\C# Projects\FaturaUygulama\FaturaUygulama\obj\Debug\FaturaUygulama.Properties.Resources.resources
+C:\Users\murat\Desktop\C# Projects\FaturaUygulama\FaturaUygulama\obj\Debug\FaturaUygulama.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\C# Projects\FaturaUygulama\FaturaUygulama\obj\Debug\FaturaUygulama.exe
+C:\Users\murat\Desktop\C# Projects\FaturaUygulama\FaturaUygulama\obj\Debug\FaturaUygulama.pdb
+C:\Users\murat\Desktop\C# Projects\FaturaUygulama\FaturaUygulama\obj\Debug\FaturaUygulama.csprojResolveAssemblyReference.cache
